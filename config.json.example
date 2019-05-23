@@ -1,0 +1,33 @@
+{
+	"accounts": [
+		{
+			"username": "Clap",
+			"password": "Emoji",
+			"sharedSecret": ""
+		},
+		{
+			"username": "IamNotCreative",
+			"password": "WithThis",
+			"sharedSecret": ""
+		}
+	],
+	"steamWebAPIKey": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+	"lobbyToJoin": "1234567890",
+	"personaName": "Super Cool Name",
+	"chatMessage": false,
+	"spoof": {
+		"rank": false,
+		"rankType": false,
+		"wins": false,
+		"medal": false,
+		"prime": false,
+		"teamColor": false,
+		"level": false,
+		"xp": false,
+		"commends": {
+			"friendly": false,
+			"teaching": false,
+			"leader": false
+		}
+	}
+}
